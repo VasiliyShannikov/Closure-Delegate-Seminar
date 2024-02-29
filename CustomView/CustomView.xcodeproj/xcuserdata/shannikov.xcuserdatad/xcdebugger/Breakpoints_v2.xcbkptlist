@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6FF83FC5-5D70-4869-8226-4DF921A9E527"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "598295C7-4FBA-4104-A186-CDA85533C9DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomView/SomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "changeVCTextButtonPressed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "598295C7-4FBA-4104-A186-CDA85533C9DE - 7e6209012f33f672"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomView.SomeView.changeVCTextButtonPressed() -&gt; ()"
+                  moduleName = "CustomView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/CustomView/CustomView/SomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "598295C7-4FBA-4104-A186-CDA85533C9DE - 7e6209012f33f672"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomView.SomeView.changeVCTextButtonPressed() -&gt; ()"
+                  moduleName = "CustomView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/CustomView/CustomView/SomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "598295C7-4FBA-4104-A186-CDA85533C9DE - 7e6209012f33f672"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomView.SomeView.changeVCTextButtonPressed() -&gt; ()"
+                  moduleName = "CustomView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/CustomView/CustomView/SomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
